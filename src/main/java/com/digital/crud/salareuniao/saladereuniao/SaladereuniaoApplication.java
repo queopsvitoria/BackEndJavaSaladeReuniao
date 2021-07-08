@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Bean;
 
 
 @SpringBootApplication
-public class SaladereuniaoApplication {
+public class 7SaladereuniaoApplication {
 
 	public static void main(String[] args) {
 
